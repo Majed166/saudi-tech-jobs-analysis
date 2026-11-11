@@ -1,0 +1,46 @@
+track,skill,pct_of_track_jobs
+Cloud & DevOps,AWS,56.5
+Cloud & DevOps,GCP,56.5
+Cloud & DevOps,Kubernetes,47.8
+Cloud & DevOps,Azure,47.8
+Cloud & DevOps,CI/CD,47.8
+Cybersecurity,ISO 27001/NCA,34.9
+Cybersecurity,Security Certs,32.6
+Cybersecurity,Networking,27.9
+Cybersecurity,SIEM/SOC,23.3
+Cybersecurity,AWS,11.6
+Data & AI,ETL/Data Pipelines,38.8
+Data & AI,Machine Learning,32.7
+Data & AI,SQL,30.6
+Data & AI,Python,30.6
+Data & AI,Power BI,26.5
+ERP & Business Systems,SAP,39.1
+ERP & Business Systems,Oracle,21.7
+ERP & Business Systems,REST APIs,13.0
+ERP & Business Systems,Agile/Scrum,13.0
+ERP & Business Systems,SQL,11.6
+IT Management,Agile/Scrum,20.0
+IT Management,Kubernetes,20.0
+IT Management,AWS,17.1
+IT Management,Machine Learning,17.1
+IT Management,REST APIs,17.1
+Networks & IT Support,Networking,28.9
+Networks & IT Support,Windows Server/AD,17.8
+Networks & IT Support,Azure,15.6
+Networks & IT Support,Linux,15.6
+Networks & IT Support,ITIL,13.3
+QA & Testing,Testing/Automation,29.4
+QA & Testing,REST APIs,23.5
+QA & Testing,Agile/Scrum,23.5
+QA & Testing,JavaScript,11.8
+QA & Testing,CI/CD,11.8
+Software Development,REST APIs,45.9
+Software Development,Agile/Scrum,35.1
+Software Development,JavaScript,32.4
+Software Development,Java,29.7
+Software Development,CI/CD,21.6
+UI/UX & Product,Figma,27.8
+UI/UX & Product,Agile/Scrum,27.8
+UI/UX & Product,JavaScript,5.6
+UI/UX & Product,HTML/CSS,5.6
+UI/UX & Product,Swift/iOS,5.6
